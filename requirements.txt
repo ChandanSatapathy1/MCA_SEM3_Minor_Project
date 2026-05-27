@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 streamlit
 PyPDF2
 sentence-transformers
 faiss-cpu
 scikit-learn
 transformers
+=======
+streamlit
+PyPDF2
+sentence-transformers
+faiss-cpu
+scikit-learn
+transformers
+>>>>>>> 9f57e4f6c0acf29c90afd599b1a7811b63d0d413
